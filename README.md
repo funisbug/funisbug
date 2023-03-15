@@ -1,7 +1,7 @@
 ## Hi there, I'm Fanis 👋
 
 - 🔭 I’m currently working on my pet project;
-- 🌱 I’m currently learning ASP.NET core
+- 🌱 I’m currently learning ASP.NET core;
 - ⚡ Fun fact:
 
 [![codewars](https://www.codewars.com/users/fun_is/badges/large)](https://www.codewars.com/users/fun_is)
