@@ -2,6 +2,9 @@
 
 - 🔭 I’m currently working on my pet project;
 - 🌱 I’m currently learning ASP.NET core
+
+
+
 <!--
 **funisbug/funisbug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
