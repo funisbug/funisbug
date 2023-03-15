@@ -6,8 +6,6 @@
 
 [![codewars](https://www.codewars.com/users/fun_is/badges/large)](https://www.codewars.com/users/fun_is)
 
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=funis&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-
 <!--
 **funisbug/funisbug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
