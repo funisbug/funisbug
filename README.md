@@ -5,7 +5,9 @@
 - ⚡ Fun fact:
 
 [![codewars](https://www.codewars.com/users/fun_is/badges/micro)](https://www.codewars.com/users/fun_is)
-[![stepik](https://static.tildacdn.com/tild3036-3734-4765-b730-373732633634/stepik_logotype_white.png)](https://stepik.org/users/577586081)
+[![stepik](https://static.tildacdn.com/tild3132-6638-4233-b832-613834663331/stepik_logotype_blac.svg)](https://stepik.org/users/577586081)
+<p align="left">
+<a href="https://stepik.org/users/577586081" target="_blank" rel="noreferrer"><img src="https://static.tildacdn.com/tild3132-6638-4233-b832-613834663331/stepik_logotype_blac.svg" width="100" height="50" alt="Stepik" /></a>
 
 ### Skills
 
