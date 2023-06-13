@@ -3,10 +3,9 @@
 - 🔭 I’m currently working on my pet project;
 - 🌱 I’m currently learning ASP.NET core;
 - ⚡ Fun fact:
+<p><a href="https://stepik.org/users/577586081" target="_blank" rel="noreferrer"><img src="https://static.tildacdn.com/tild3132-6638-4233-b832-613834663331/stepik_logotype_blac.svg" width="100" height="50" alt="Stepik" /></a></p>
+<p><a href="https://www.codewars.com/users/fun_is" target="_blank" rel="noreferrer"><img src="https://www.codewars.com/users/fun_is/badges/small" alt="Codewars" /></a></p>
 
-<p align="left">
-<a href="https://www.codewars.com/users/fun_is" target="_blank" rel="noreferrer"><img src="https://www.codewars.com/users/fun_is/badges/small" alt="Codewars" /></a>
-<a href="https://stepik.org/users/577586081" target="_blank" rel="noreferrer"><img src="https://static.tildacdn.com/tild3132-6638-4233-b832-613834663331/stepik_logotype_blac.svg" width="100" height="50" alt="Stepik" /></a>
 
 ### Skills
 
