@@ -7,10 +7,10 @@
 <p><a href="https://www.codewars.com/users/fun_is" target="_blank" rel="noreferrer"><img src="https://www.codewars.com/users/fun_is/badges/small" alt="Codewars" /></a></p>
 
 ### TECHNICAL SKILLS
-Languages:     C#, Python, SQL
-Tools:         MS Visual Studio, Git, Swagger, Postman
-Database:      MS SQL Server, PostgreSQL
-Extra skills:  ASP.NET Core Web API / MVC, Entity Framework Core, LINQ, xUnit, RabbitMQ, Docker
+- Languages:     C#, Python, SQL  
+- Tools:         MS Visual Studio, Git, Swagger, Postman  
+- Database:      MS SQL Server, PostgreSQL  
+- Extra skills:  ASP.NET Core Web API / MVC, Entity Framework Core, LINQ, xUnit, RabbitMQ, Docker  
 
 <!--
 **funisbug/funisbug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
